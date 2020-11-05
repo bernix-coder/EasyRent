@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from './images/logo.png'
+import logo from './images/new.png'
 import SearchIcon from '@material-ui/icons/Search';
 import LanguageIcon from '@material-ui/icons/Language';
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
